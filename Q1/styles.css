@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.nav-logo{
+    color: blue !important;
+}
+
+.nav-btn{
+    padding: 5px !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    border-radius: 25px !important;
+}
+
+.hero-img{
+    width: 650px;
+}
+
+.hero-content{
+    padding-top: 100px;
+}
+
+.hero-title{
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.hero-para{
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    font-size: 15px;
+    color: rgb(172, 171, 171) !important;
+}
+
+.hero-contact{
+    padding-right: 50px !important;
+    color: rgb(231, 231, 231) !important;
+    border-radius: 25px !important;
+    border-color: rgb(231, 231, 231) !important;
+}
+
+.hero-btn{
+    margin-left: 20px !important;
+    margin-bottom: 5px !important;
+    padding: 12px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    border-radius: 35px !important;
+}
+
+.section-margin{
+    margin-top: 150px;
+}
+
+.section-margin-d{
+    margin-bottom: 150px;
+}
+
+.card-custom-1{
+    font-size: 12px;
+    color: white !important;
+    margin-top: 10px;
+    border: none !important;
+    background-color: blue !important;
+}
+
+.card-custom-2{
+    font-size: 12px;
+    margin: 10px;
+    margin-top: 60px;
+    border: none !important;
+    background-color: rgb(205, 205, 249) !important;
+}
+
+.card-custom-3{
+    font-size: 12px;
+    margin-top: 20px;
+    border: none !important;
+    background-color: rgb(253, 231, 190) !important;
+}
+
+.card-image{
+    margin-top: 50px;
+    align-self: center;
+    width: 200px !important;
+}
+
+.task-content{
+    margin-left: 60px;
+    padding-top: 10px;
+}
+
+.task-para{
+    margin-top: 90px !important;
+    margin-bottom: 60px !important;
+    font-size: 15px;
+    color: rgb(172, 171, 171) !important;
+}
+
+.team-para{
+    margin-top: 40px !important;
+    margin-bottom: 30px !important;
+    font-size: 15px;
+    color: rgb(172, 171, 171) !important;
+}
+
+.team-img1{
+    margin-top: 5px !important;
+    width: 60px !important;
+    height: 40px !important;
+}
+
+.team-img2{
+    width: 100px !important;
+}
+
+.trust-img1{
+    margin-top: 5px !important;
+    width: 210px !important;
+}
+
+.trust-img2{
+    margin-top: 100px !important;
+    width: 300px !important;
+}
+
+.trust-number{
+    margin-top: 100px;
+    color: blue;
+    font-weight: bolder;
+    font-size: 100px;
+}
+
+.work-para{
+    margin-top: 10px !important;
+    margin-bottom: 50px !important;
+    font-size: 15px;
+    color: rgb(172, 171, 171) !important;
+}
